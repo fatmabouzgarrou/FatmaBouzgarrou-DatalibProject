@@ -1,0 +1,19 @@
+site_name: DataLib Documentation
+theme:
+  name: 'Bibliotheque'
+
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Usage: usage.md
+  - Examples: examples.md
+
+search:
+  lang: en
+
+pages:
+  - Home: index.md
+  - Installation: installation.md
+  - Examples: examples.md
+
+
